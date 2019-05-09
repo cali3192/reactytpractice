@@ -1,4 +1,4 @@
-import {Components} from React
+// import {Components} from React
 
 var App = () => (
   <div>
